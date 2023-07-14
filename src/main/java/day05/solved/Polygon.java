@@ -1,5 +1,5 @@
 package day05.solved;
 
-public class Polygon {
-
+public interface Polygon {
+	public double area(double a, double b);
 }
