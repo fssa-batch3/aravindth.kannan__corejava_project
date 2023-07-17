@@ -20,6 +20,7 @@ public class Task {
 		ArrayList<Task> arr = new ArrayList<>();
 		arr.add(new Task("Aravindth", 4));
 		arr.add(new Task("Kavi", 5));
+		arr.add(new Task("mathi", 7));
 		System.out.println(arr);
 		
 		
