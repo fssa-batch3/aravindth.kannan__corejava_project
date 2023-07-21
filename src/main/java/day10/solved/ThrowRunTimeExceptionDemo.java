@@ -9,7 +9,7 @@ class NewTaskValidator {
 		else if (task.getName() == null || "".equals(task.getName()))
 			throw new IllegalArgumentException("Task name is empty");
 		return true;
-	}
+	} 
 }
 
 /**
