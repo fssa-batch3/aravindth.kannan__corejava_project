@@ -40,6 +40,7 @@ public class Task {
 		ArrayList<Task> list = new ArrayList<>();
 		list.add(obj);
 		list.add(obj1);
+		
 		list.add(obj2);
 		
 		Collections.sort(list,Comparator.comparing(Task::getDate));
