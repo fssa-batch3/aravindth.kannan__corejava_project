@@ -76,14 +76,10 @@ public class ComparableInterfaceDemo {
 		list.add(acct3);
 
 		System.out.println(list);
-
 		Collections.sort(list);
-
 		// Printing numbers sorted by balance
-		System.out.println(list);
-		
+		System.out.println(list);		
 		Collections.reverse(list);
-
 		// Printing numbers reverse-sorted by balance
 		System.out.println(list);
 
