@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class ArrayListDemo {
 
-	// without using generics
+	// without using generics       
 	public static void main(String[] args) {
 
 		// Store the city names in the List
